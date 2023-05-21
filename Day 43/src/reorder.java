@@ -1,4 +1,4 @@
-public class Node {
+class Node {
  	  int val;
       Node next;
       Node() {}
@@ -6,7 +6,7 @@ public class Node {
       Node(int val, Node next) { this.val = val; this.next = next; }
   }
  
-class merge {
+public class reorder {
 	//Merge Two Sorted List - https://leetcode.com/problems/merge-two-sorted-lists/description/
 	public Node merge(Node l1 , Node l2) {
 		if(l1 != null && l2 != null) {
