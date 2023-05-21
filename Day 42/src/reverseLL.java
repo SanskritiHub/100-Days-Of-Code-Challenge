@@ -1,4 +1,4 @@
-public class ListNode {
+class ListNode {
  	  int val;
       ListNode next;
       ListNode() {}
@@ -6,7 +6,7 @@ public class ListNode {
       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
   }
  
-class reverseLL {
+public class reverseLL {
 	
     public ListNode reverseList(ListNode head){
 
