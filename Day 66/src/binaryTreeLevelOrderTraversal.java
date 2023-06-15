@@ -15,7 +15,7 @@ public class binaryTreeLevelOrderTraversal {
 	      }
 	  }
 	 
-	class Solution {
+
 	    public List<List<Integer>> levelOrder(TreeNode root) {
 	        List<List<Integer>> result = new ArrayList<>();
 	        if(root == null) return result;
@@ -41,4 +41,3 @@ public class binaryTreeLevelOrderTraversal {
 	        return result;
 	    }
 	}
-}
