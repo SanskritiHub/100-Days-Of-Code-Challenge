@@ -68,14 +68,13 @@ public class BellmanFord {
 			}
 		}
 		
-		
 		for(int i = 0; i<dist.length; i++) {
 			System.out.print(dist[i] + " ");
 		}
 		System.out.println();
 	}
 	
-
+	
 	public static void main(String[] args) {
 		int V = 5;
 		
