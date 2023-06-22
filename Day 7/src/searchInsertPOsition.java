@@ -1,4 +1,3 @@
-
 public class searchInsertPOsition {
 
 	public static void main(String[] args) {
