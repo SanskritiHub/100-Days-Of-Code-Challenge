@@ -73,7 +73,6 @@ public class bridgeInGraph {
 				low[curr] = Math.min(low[curr], dt[e.dest]);
 			}
 		}
- 		
 	}
 
 	public static void main(String[] args) {
