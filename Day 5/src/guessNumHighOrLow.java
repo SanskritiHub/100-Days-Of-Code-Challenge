@@ -15,7 +15,6 @@ public class guessNumHighOrLow {
 		else {
 			System.out.println("Sorry but the number was " + range);
 		}
-		
 	
 	}
 	
