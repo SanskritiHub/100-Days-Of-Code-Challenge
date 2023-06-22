@@ -83,7 +83,6 @@ public class articulationPoint {
 		}
 	}
 	
-	
 	public static void main(String[] args) {
 		int v = 5;
 		ArrayList<Edge> graph[] = new ArrayList[v];
