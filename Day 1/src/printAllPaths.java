@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 
-
 public class printAllPaths {
 
-		
 		static class Edge{
 			int src;
 			int dest;
