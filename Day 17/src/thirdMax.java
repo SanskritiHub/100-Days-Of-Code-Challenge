@@ -5,7 +5,6 @@ public class thirdMax {
 	public static void main(String[] args) {
 		int nums[] = {3,10,5,6,1,7};
 		System.out.println(thirdMax(nums));
-
 	}
 	
 	public static int thirdMax(int nums[]) {
