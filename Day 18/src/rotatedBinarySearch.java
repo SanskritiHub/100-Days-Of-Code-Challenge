@@ -32,5 +32,4 @@ public class rotatedBinarySearch {
 		}
 		return RBS(arr, target, start, mid-1);
 	}
-
 }
