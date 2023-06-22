@@ -37,10 +37,7 @@ public class findAllMissing {
 			int temp = arr[i];
 			arr[i] = arr[correctIndex];
 			arr[correctIndex] = temp;
-				
-			
-	}
-
-		
+						
+	}	
 }
 
