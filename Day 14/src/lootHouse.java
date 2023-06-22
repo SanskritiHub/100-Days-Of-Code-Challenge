@@ -1,7 +1,7 @@
 
 public class lootHouse {
 
-public static int maxLoot(int house[]) {
+	public static int maxLoot(int house[]) {
 		
 		if(house.length == 0) {
 			return 0;
