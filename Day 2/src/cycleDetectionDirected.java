@@ -52,7 +52,6 @@ public class cycleDetectionDirected {
 		
 		System.out.println(isCycleDirected(graph, 0, new boolean[v], new boolean[v]));
 	}
-
 }
 
 
